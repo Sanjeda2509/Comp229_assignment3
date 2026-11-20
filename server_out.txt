@@ -1,0 +1,2 @@
+MongoDB database connected successfully
+App running in port 5000
